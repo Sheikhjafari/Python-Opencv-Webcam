@@ -11,6 +11,9 @@ This repository contains a simple Python script using the OpenCV library to capt
 ## Getting Started
 To run the code, make sure you have Python and OpenCV installed on your system. Adjust the camera index in the script if needed. Clone the repository and run the Python script.
 
+## YouTube video
+https://youtu.be/iFrFVYAEQbM?si=cczNwRsCaIut5gjR
+
 ```bash
 git clone https://github.com/Sheikhjafari/Python-Opencv-Webcam
 cd Webcam-Feed-Python-OpenCV
